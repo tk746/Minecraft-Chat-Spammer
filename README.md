@@ -13,4 +13,4 @@ in the send ex.message type your message you want to say or spam.
 
 if you want to change the keybind to activate the default is f2 and to open chat the default is "t"
 
-Made Completely by Tk7462 / tk746#0069
+Made Completely by Tk7462 / _tk746#5623
